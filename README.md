@@ -1,11 +1,11 @@
 # Verilog-Normal
-hw1:Layout
+hw1: Layout
 
-hw2:hspice
+hw2: hspice
 
-hw3:RTL
+hw3: RTL
 
-hw4:RTL & Synthesis
+hw4: RTL & Synthesis
 
 demo:
 
